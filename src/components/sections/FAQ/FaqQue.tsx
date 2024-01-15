@@ -13,7 +13,7 @@ const FaqQue = () => {
                 answer="You can become a customer by filling out the registration form clicking on the button below. After you have filled the form out please
                 send a mail to us at info@goldenanchor.nl so our admin can register you as a customer. The sales manager of your area will contact
                 you shortly after to make an appointment for a first meeting."
-                action={{ text: "Become a customer", link: "https://www.unidexholland.com/en/faqs" }}
+                action={{ text: "Become a customer", link: "/registration" }}
               />
             </div>
             <div>
