@@ -16,7 +16,7 @@ const HomePage = () => {
         <HomeBrands />
         <Banner
           background={styles.callToActBG}
-          title="Wanna Join Us?"
+          title="Want To Join Us?"
           subTitle="Let's work together with the Golden Anchor"
           action={{
             title: "Request Price Quotation",
